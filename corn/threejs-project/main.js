@@ -41,8 +41,7 @@ controls.enablePan = false;  // Optional: disable pan
 
 controls.minPolarAngle = Math.PI / 2; // 90°
 controls.maxPolarAngle = Math.PI / 2; // 90°
-// controls.autoRotate = true;
-// controls.autoRotateSpeed = 4.0; 
+
 
 controls.target.set(0, 0, 0);
 controls.update();
@@ -95,18 +94,8 @@ loader.load('/model.glb', (gltf) => {
 let isDragging = false;
 let previousMousePosition = { x: 0 };
 
-// renderer.domElement.addEventListener('mousedown', () => isDragging = true);
-// renderer.domElement.addEventListener('mouseup', () => isDragging = false);
-// renderer.domElement.addEventListener('mousemove', (event) => {
-//   if (!isDragging || !window.model) return;
-//   const deltaX = event.clientX - previousMousePosition.x;
-//   window.model.rotation.x += deltaX * 0.10; // Rotating around X if it lies on X
-//   previousMousePosition.x = event.clientX;
-// });
-
 window.addEventListener('wheel', (event) => {
   event.preventDefault();
-  const deltaX = event.clientX - previousMousePosition.x;
 
   if (event.deltaY < 0) {
     window.model.rotation.x -= 0.05 ;
