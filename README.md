@@ -3,7 +3,7 @@
 Play with a corn on the web. Scroll to spin it. Drag to toss it around. Ever seen a corn without its cob? Yeah… it looks weird. I know what you’re thinking. lol.
 
 # :running: How to Run it
-1. Clone the repo and cd into /corn
+1. Clone the repo and cd into `/corn`
 2. Make sure that you have node downloaded
 3. `npm install`
 4. `npm run dev`
