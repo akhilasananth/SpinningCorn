@@ -36,8 +36,8 @@ const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
 controls.dampingFactor = 0.5;
 
-controls.enableZoom = false; // Optional: disable zoom
-controls.enablePan = false;  // Optional: disable pan
+controls.enableZoom = false; 
+controls.enablePan = false; 
 
 controls.minPolarAngle = Math.PI / 2; // 90°
 controls.maxPolarAngle = Math.PI / 2; // 90°
@@ -116,7 +116,6 @@ function animate() {
 
 animate();
 
-// Responsive
 window.addEventListener('resize', () => {
   camera.aspect = window.innerWidth / window.innerHeight;
   camera.updateProjectionMatrix();
