@@ -1,6 +1,6 @@
 # :corn: Spinning Corn :corn:
 
-Play with a corn on the web. Scroll to spin it. Drag to toss it around. Ever seen a corn without its cob? Yeah… it looks weird. I know what you’re thinking. lol.
+Play with a corn on the web. Scroll to spin it. Drag to toss it around. Ever seen a corn without its cob? Yeah… it looks weird, idc it was fun to create
 
 https://github.com/user-attachments/assets/1427b0c2-c737-4f91-b9b2-fc5c60d662fc
 
