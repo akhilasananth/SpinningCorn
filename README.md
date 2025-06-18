@@ -2,6 +2,8 @@
 
 Play with a corn on the web. Scroll to spin it. Drag to toss it around. Ever seen a corn without its cob? Yeah… it looks weird. I know what you’re thinking. lol.
 
+https://github.com/user-attachments/assets/1427b0c2-c737-4f91-b9b2-fc5c60d662fc
+
 # :running: How to Run it
 1. Clone the repo and cd into `/corn`
 2. Make sure that you have node downloaded
