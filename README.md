@@ -18,3 +18,5 @@ https://github.com/user-attachments/assets/1427b0c2-c737-4f91-b9b2-fc5c60d662fc
 I wanted to create a maze on a maize. It was a random idea and a funny play on words. 
 I was about to figure out the maze part after I created this and I came accross the same idea being implemented by Dave Seidman. 
 I am so glad that I discovered his work! It is very inspiring! Check out his maíz project! https://daveseidman.com/Maiz 
+
+Maíz repo: https://github.com/DaveSeidman/maiz 
