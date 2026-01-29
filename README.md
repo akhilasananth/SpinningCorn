@@ -1,7 +1,14 @@
 # :corn: Spinning Corn :corn:
 
 Play with a corn on the web. Scroll to spin it. Drag to toss it around.
-https://github.com/user-attachments/assets/1427b0c2-c737-4f91-b9b2-fc5c60d662fc
+
+
+
+https://github.com/user-attachments/assets/4cfcc8eb-ed8d-46f7-a7b0-5597e0ca67da
+
+
+
+
 
 # :running: How to Run it
 1. Clone the repo and cd into `/corn`
